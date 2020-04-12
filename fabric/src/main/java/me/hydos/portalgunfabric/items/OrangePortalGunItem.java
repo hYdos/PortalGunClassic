@@ -23,7 +23,7 @@ public class OrangePortalGunItem extends Item {
             world.playSound(
                     null,
                     playerEntity.getBlockPos(),
-                    Sounds.BLUE_SHOOT_SOUND_EVENT,
+                    Sounds.ORANGE_SHOOT_SOUND_EVENT,
                     SoundCategory.MASTER,
                     1f,
                     1f
