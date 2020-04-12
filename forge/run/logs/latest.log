@@ -145,3 +145,170 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 [15:34:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
 [15:40:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
 [15:40:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[16:15:49] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] [Debug]: Advanced tooltips: shown
+[16:15:54] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[16:15:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[16:16:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: <Player131> t
+[16:16:25] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] <Player131> t
+[16:20:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Set the time to 1000]
+[16:20:32] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Set the time to 1000
+[16:23:22] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[16:23:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[16:25:39] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[16:25:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:34:49] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:34:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:35:36] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:35:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:37:01] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:37:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:39:22] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /?, /advancement, /blockdata, /clear, /clone, /debug, /defaultgamemode, /difficulty, /effect, /enchant, /entitydata, /execute, /fill, /forge, /function, /gamemode, /gamerule, /give, /help, /kill, /locate, /me, /msg, /particle, /playsound, /publish, /recipe, /reload, /replaceitem, /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon, /teleport, /tell, /tellraw, /testfor, /testforblock, /testforblocks, /time, /title, /toggledownfall, /tp, /trigger, /w, /weather, /worldborder, /xp
+[18:39:25] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon
+[18:39:25] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon
+[18:39:25] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon
+[18:39:26] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] /say, /scoreboard, /seed, /setblock, /setworldspawn, /spawnpoint, /spreadplayers, /stats, /stopsound, /summon
+[18:39:29] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] minecraft:acacia_door, minecraft:acacia_fence, minecraft:acacia_fence_gate, minecraft:acacia_stairs, minecraft:activator_rail, minecraft:air, minecraft:anvil, minecraft:barrier, minecraft:beacon, minecraft:bed, minecraft:bedrock, minecraft:beetroots, minecraft:birch_door, minecraft:birch_fence, minecraft:birch_fence_gate, minecraft:birch_stairs, minecraft:black_glazed_terracotta, minecraft:black_shulker_box, minecraft:blue_glazed_terracotta, minecraft:blue_shulker_box, minecraft:bone_block, minecraft:bookshelf, minecraft:brewing_stand, minecraft:brick_block, minecraft:brick_stairs, minecraft:brown_glazed_terracotta, minecraft:brown_mushroom, minecraft:brown_mushroom_block, minecraft:brown_shulker_box, minecraft:cactus, minecraft:cake, minecraft:carpet, minecraft:carrots, minecraft:cauldron, minecraft:chain_command_block, minecraft:chest, minecraft:chorus_flower, minecraft:chorus_plant, minecraft:clay, minecraft:coal_block, minecraft:coal_ore, minecraft:cobblestone, minecraft:cobblestone_wall, minecraft:cocoa, minecraft:command_block, minecraft:concrete, minecraft:concrete_powder, minecraft:crafting_table, minecraft:cyan_glazed_terracotta, minecraft:cyan_shulker_box, minecraft:dark_oak_door, minecraft:dark_oak_fence, minecraft:dark_oak_fence_gate, minecraft:dark_oak_stairs, minecraft:daylight_detector, minecraft:daylight_detector_inverted, minecraft:deadbush, minecraft:detector_rail, minecraft:diamond_block, minecraft:diamond_ore, minecraft:dirt, minecraft:dispenser, minecraft:double_plant, minecraft:double_stone_slab, minecraft:double_stone_slab2, minecraft:double_wooden_slab, minecraft:dragon_egg, minecraft:dropper, minecraft:emerald_block, minecraft:emerald_ore, minecraft:enchanting_table, minecraft:end_bricks, minecraft:end_gateway, minecraft:end_portal, minecraft:end_portal_frame, minecraft:end_rod, minecraft:end_stone, minecraft:ender_chest, minecraft:farmland, minecraft:fence, minecraft:fence_gate, minecraft:fire, minecraft:flower_pot, minecraft:flowing_lava, minecraft:flowing_water, minecraft:frosted_ice, minecraft:furnace, minecraft:glass, minecraft:glass_pane, minecraft:glowstone, minecraft:gold_block, minecraft:gold_ore, minecraft:golden_rail, minecraft:grass, minecraft:grass_path, minecraft:gravel, minecraft:gray_glazed_terracotta, minecraft:gray_shulker_box, minecraft:green_glazed_terracotta, minecraft:green_shulker_box, minecraft:hardened_clay, minecraft:hay_block, minecraft:heavy_weighted_pressure_plate, minecraft:hopper, minecraft:ice, minecraft:iron_bars, minecraft:iron_block, minecraft:iron_door, minecraft:iron_ore, minecraft:iron_trapdoor, minecraft:jukebox, minecraft:jungle_door, minecraft:jungle_fence, minecraft:jungle_fence_gate, minecraft:jungle_stairs, minecraft:ladder, minecraft:lapis_block, minecraft:lapis_ore, minecraft:lava, minecraft:leaves, minecraft:leaves2, minecraft:lever, minecraft:light_blue_glazed_terracotta, minecraft:light_blue_shulker_box, minecraft:light_weighted_pressure_plate, minecraft:lime_glazed_terracotta, minecraft:lime_shulker_box, minecraft:lit_furnace, minecraft:lit_pumpkin, minecraft:lit_redstone_lamp, minecraft:lit_redstone_ore, minecraft:log, minecraft:log2, minecraft:magenta_glazed_terracotta, minecraft:magenta_shulker_box, minecraft:magma, minecraft:melon_block, minecraft:melon_stem, minecraft:mob_spawner, minecraft:monster_egg, minecraft:mossy_cobblestone, minecraft:mycelium, minecraft:nether_brick, minecraft:nether_brick_fence, minecraft:nether_brick_stairs, minecraft:nether_wart, minecraft:nether_wart_block, minecraft:netherrack, minecraft:noteblock, minecraft:oak_stairs, minecraft:observer, minecraft:obsidian, minecraft:orange_glazed_terracotta, minecraft:orange_shulker_box, minecraft:packed_ice, minecraft:pink_glazed_terracotta, minecraft:pink_shulker_box, minecraft:piston, minecraft:piston_extension, minecraft:piston_head, minecraft:planks, minecraft:portal, minecraft:potatoes, minecraft:powered_comparator, minecraft:powered_repeater, minecraft:prismarine, minecraft:pumpkin, minecraft:pumpkin_stem, minecraft:purple_glazed_terracotta, minecraft:purple_shulker_box, minecraft:purpur_block, minecraft:purpur_double_slab, minecraft:purpur_pillar, minecraft:purpur_slab, minecraft:purpur_stairs, minecraft:quartz_block, minecraft:quartz_ore, minecraft:quartz_stairs, minecraft:rail, minecraft:red_flower, minecraft:red_glazed_terracotta, minecraft:red_mushroom, minecraft:red_mushroom_block, minecraft:red_nether_brick, minecraft:red_sandstone, minecraft:red_sandstone_stairs, minecraft:red_shulker_box, minecraft:redstone_block, minecraft:redstone_lamp, minecraft:redstone_ore, minecraft:redstone_torch, minecraft:redstone_wire, minecraft:reeds, minecraft:repeating_command_block, minecraft:sand, minecraft:sandstone, minecraft:sandstone_stairs, minecraft:sapling, minecraft:sea_lantern, minecraft:silver_glazed_terracotta, minecraft:silver_shulker_box, minecraft:skull, minecraft:slime, minecraft:snow, minecraft:snow_layer, minecraft:soul_sand, minecraft:sponge, minecraft:spruce_door, minecraft:spruce_fence, minecraft:spruce_fence_gate, minecraft:spruce_stairs, minecraft:stained_glass, minecraft:stained_glass_pane, minecraft:stained_hardened_clay, minecraft:standing_banner, minecraft:standing_sign, minecraft:sticky_piston, minecraft:stone, minecraft:stone_brick_stairs, minecraft:stone_button, minecraft:stone_pressure_plate, minecraft:stone_slab, minecraft:stone_slab2, minecraft:stone_stairs, minecraft:stonebrick, minecraft:structure_block, minecraft:structure_void, minecraft:tallgrass, minecraft:tnt, minecraft:torch, minecraft:trapdoor, minecraft:trapped_chest, minecraft:tripwire, minecraft:tripwire_hook, minecraft:unlit_redstone_torch, minecraft:unpowered_comparator, minecraft:unpowered_repeater, minecraft:vine, minecraft:wall_banner, minecraft:wall_sign, minecraft:water, minecraft:waterlily, minecraft:web, minecraft:wheat, minecraft:white_glazed_terracotta, minecraft:white_shulker_box, minecraft:wooden_button, minecraft:wooden_door, minecraft:wooden_pressure_plate, minecraft:wooden_slab, minecraft:wool, minecraft:yellow_flower, minecraft:yellow_glazed_terracotta, minecraft:yellow_shulker_box, portalgunclassic:portal
+[18:39:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:34] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:36] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] The block couldn't be placed
+[18:39:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:43] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:47] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:49] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:50] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:51] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:52] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] The block couldn't be placed
+[18:39:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Player131: Block placed]
+[18:39:53] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] Block placed
+[18:39:54] [Client thread/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] The block couldn't be placed
+[18:40:15] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Encountered an unexpected exception
+net.minecraft.util.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:837) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743) ~[MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192) ~[IntegratedServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_231]
+Caused by: java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.TimSort.mergeLo(TimSort.java:777) ~[?:1.8.0_231]
+	at java.util.TimSort.mergeAt(TimSort.java:514) ~[?:1.8.0_231]
+	at java.util.TimSort.mergeCollapse(TimSort.java:441) ~[?:1.8.0_231]
+	at java.util.TimSort.sort(TimSort.java:245) ~[?:1.8.0_231]
+	at java.util.Arrays.sort(Arrays.java:1438) ~[?:1.8.0_231]
+	at java.util.List.sort(List.java:478) ~[?:1.8.0_231]
+	at java.util.Collections.sort(Collections.java:177) ~[?:1.8.0_231]
+	at net.minecraft.server.management.PlayerChunkMap.tick(PlayerChunkMap.java:148) ~[PlayerChunkMap.class:?]
+	at net.minecraft.world.WorldServer.tick(WorldServer.java:236) ~[WorldServer.class:?]
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:831) ~[MinecraftServer.class:?]
+	... 4 more
+[18:40:15] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: This crash report has been saved to: C:\Users\Hayden\Documents\development\fabric\mods\PortalGunClassic\forge\run\.\crash-reports\crash-2020-04-12_18.40.15-server.txt
+[18:40:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:40:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:40:15] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:629]: ---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 4/12/20 6:40 PM
+Description: Exception ticking world
+
+java.lang.IllegalArgumentException: Comparison method violates its general contract!
+	at java.util.TimSort.mergeLo(TimSort.java:777)
+	at java.util.TimSort.mergeAt(TimSort.java:514)
+	at java.util.TimSort.mergeCollapse(TimSort.java:441)
+	at java.util.TimSort.sort(TimSort.java:245)
+	at java.util.Arrays.sort(Arrays.java:1438)
+	at java.util.List.sort(List.java:478)
+	at java.util.Collections.sort(Collections.java:177)
+	at net.minecraft.server.management.PlayerChunkMap.tick(PlayerChunkMap.java:148)
+	at net.minecraft.world.WorldServer.tick(WorldServer.java:236)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:831)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at java.util.TimSort.mergeLo(TimSort.java:777)
+	at java.util.TimSort.mergeAt(TimSort.java:514)
+	at java.util.TimSort.mergeCollapse(TimSort.java:441)
+	at java.util.TimSort.sort(TimSort.java:245)
+	at java.util.Arrays.sort(Arrays.java:1438)
+	at java.util.List.sort(List.java:478)
+	at java.util.Collections.sort(Collections.java:177)
+	at net.minecraft.server.management.PlayerChunkMap.tick(PlayerChunkMap.java:148)
+	at net.minecraft.world.WorldServer.tick(WorldServer.java:236)
+
+-- Affected level --
+Details:
+	Level name: New World
+	All players: 1 total; [EntityPlayerMP['Player131'/2424, l='New World', x=-60.50, y=98.00, z=372.50]]
+	Chunk stats: ServerChunkCache: 715 Drop: 0
+	Level seed: 5898806597640600062
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-8,64,236), Chunk: (at 8,4,12 in -1,14; contains blocks -16,0,224 to -1,255,239), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 26168 game time, 13495 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 111101 (now: false), thunder time: 63415 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:831)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:743)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:192)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:592)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_231, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 800959760 bytes (763 MB) / 1581252608 bytes (1508 MB) up to 7621050368 bytes (7268 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID               | Version      | Source                           | Signature |
+	|:------ |:---------------- |:------------ |:-------------------------------- |:--------- |
+	| LCHIJA | minecraft        | 1.12.2       | minecraft.jar                    | None      |
+	| LCHIJA | mcp              | 9.42         | minecraft.jar                    | None      |
+	| LCHIJA | FML              | 8.0.99.99    | forgeSrc-1.12.2-14.23.5.2847.jar | None      |
+	| LCHIJA | forge            | 14.23.5.2847 | forgeSrc-1.12.2-14.23.5.2847.jar | None      |
+	| LCHIJA | portalgunclassic | 1.0.0        | forge                            | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [EntityPlayerMP['Player131'/2424, l='New World', x=-60.50, y=98.00, z=372.50]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+[18:40:15] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:629]: #@!@# Game crashed! Crash report saved to: #@!@# .\crash-reports\crash-2020-04-12_18.40.15-server.txt
+[18:40:15] [Client thread/INFO] [FML]: Waiting for the server to terminate/save.
+[18:40:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:40:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'New World'/overworld
+[18:40:15] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:40:16] [Server thread/INFO] [FML]: Applying holder lookups
+[18:40:16] [Server thread/INFO] [FML]: Holder lookups applied
+[18:40:16] [Server thread/INFO] [FML]: The state engine was in incorrect state SERVER_STOPPING and forced into state SERVER_STOPPED. Errors may have been discarded.
+[18:40:16] [Client thread/INFO] [FML]: Server terminated.
+[18:40:16] [Client Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:40:16] [Client Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:40:16] [Client Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Player131 lost connection: Server closed
+[18:40:16] [Client Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Player131 left the game
+[18:40:16] [Client Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stopping singleplayer server as player logged out
+[18:40:16] [Client Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

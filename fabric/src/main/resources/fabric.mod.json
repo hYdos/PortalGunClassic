@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "portalgunfabric",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Portal Gun Fabric",
+  "description": "Port of portal gun classic to fabric!",
   "authors": [
-    "Me!"
+    "hydos"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,24 +14,23 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/portalgunfabric/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "me.hydos.portalgunfabric.PortalGunFabric"
+    ],
+    "client": [
+      "me.hydos.portalgunfabric.Packets"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "portalgunfabric.mixins.json"
   ],
 
   "depends": {
     "fabricloader": ">=0.7.4",
-    "fabric": "*",
-    "minecraft": "1.15.x"
-  },
-  "suggests": {
-    "flamingo": "*"
+    "fabric": "*"
   }
 }

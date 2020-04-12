@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "extreme_hills_with_trees": "2020-04-12 18:35:52 +1000",
       "taiga": "2020-04-12 15:33:16 +1000",
       "taiga_hills": "2020-04-12 15:35:53 +1000",
       "extreme_hills": "2020-04-12 15:33:47 +1000"

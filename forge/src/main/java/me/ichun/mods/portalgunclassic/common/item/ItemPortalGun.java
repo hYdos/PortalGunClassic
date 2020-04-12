@@ -22,7 +22,7 @@ public class ItemPortalGun extends Item
     }
 
     @Override
-    public ActionResult<ItemStack> onItemRightClick(World world, EntityPlayer player, EnumHand handIn)
+    public ActionResult onItemRightClick(World world, EntityPlayer player, EnumHand handIn)
     {
         if(!world.isRemote)
         {

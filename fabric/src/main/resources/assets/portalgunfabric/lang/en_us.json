@@ -1,0 +1,20 @@
+{
+  "subtitles.portalgunfabric.enter" : "Entity entered portal",
+  "subtitles.portalgunfabric.exit":"Entity exited portal",
+  "subtitles.portalgunfabric.fizzle":"Portal closing",
+  "subtitles.portalgunfabric.invalid":"Portal failed to open",
+  "subtitles.portalgunfabric.open":"Portal opening",
+  "subtitles.portalgunfabric.fire":"Portal gun firing",
+  "subtitles.portalgunfabric.reset":"Portal gun resetting",
+  "subtitles.portalgunfabric.active":"Portal gun equipping",
+
+  "item.portalgunfabric.blue_portal_gun.name":"Portal Gun",
+  "item.portalgunfabric.orange_portal_gun.name":"Portal Gun",
+
+  "item.portalgunfabric.portal_gun_core.name":"Portal Core",
+
+  "key.portalgunfabric.switch":"Switch Portal Gun Type",
+
+  "itemGroup.portalgunfabric.portalgun": "Portal"
+
+}
