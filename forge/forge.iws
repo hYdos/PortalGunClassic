@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list comment="" default="true" id="3173fa38-acca-4582-a923-0c02ebaefc87" name="Default Changelist">
-      <change afterDir="false" afterPath="$PROJECT_DIR$/build.gradle" beforeDir="false" beforePath="$PROJECT_DIR$/build.gradle" />
-      <change afterDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
+    <list default="true" id="3173fa38-acca-4582-a923-0c02ebaefc87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/run/options.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages_nether.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/forcedchunks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages_end.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/forcedchunks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/advancements/27903c96-6327-3ab4-9463-21017fd8955d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/data/Mineshaft.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/data/PortalGunClassicSaveData.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/data/Village.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/data/capabilities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/forcedchunks.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/27903c96-6327-3ab4-9463-21017fd8955d.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/saves/New World/stats/27903c96-6327-3ab4-9463-21017fd8955d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge.iws" beforeDir="false" afterPath="$PROJECT_DIR$/forge.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +90,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aQXBRMWiIQ10s450jsNxU4otYB" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state />
-    </entry>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -78,6 +101,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -86,6 +110,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
     <configuration default="true" factoryName="Applet" type="Applet">
@@ -208,7 +233,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist comment="" id="3173fa38-acca-4582-a923-0c02ebaefc87" name="Default Changelist" />
+      <changelist id="3173fa38-acca-4582-a923-0c02ebaefc87" name="Default Changelist" comment="" />
       <created>1586668657859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -218,44 +243,49 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state height="851" key="#Minecraft_Client" timestamp="1586669045624" width="805" x="657" y="200">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state x="657" y="200" width="805" height="851" key="#Minecraft_Client" timestamp="1586669045624">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="851" key="#Minecraft_Client/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669045624" width="805" x="657" y="200" />
-    <state height="386" key="GridCell.Tab.0.bottom" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state x="657" y="200" width="805" height="851" key="#Minecraft_Client/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669045624" />
+    <state width="1877" height="386" key="GridCell.Tab.0.bottom" timestamp="1586669552820">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.0.center" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669552820" />
+    <state width="1877" height="386" key="GridCell.Tab.0.center" timestamp="1586669552819">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.0.left" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669552819" />
+    <state width="1877" height="386" key="GridCell.Tab.0.left" timestamp="1586669552819">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.0.right" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669552819" />
+    <state width="1877" height="386" key="GridCell.Tab.0.right" timestamp="1586669552819">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.1.bottom" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669552819" />
+    <state width="1877" height="386" key="GridCell.Tab.1.bottom" timestamp="1586669087790">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.1.center" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" />
+    <state width="1877" height="386" key="GridCell.Tab.1.center" timestamp="1586669087790">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.1.left" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" />
+    <state width="1877" height="386" key="GridCell.Tab.1.left" timestamp="1586669087790">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
-    <state height="386" key="GridCell.Tab.1.right" timestamp="1586669087790" width="1877">
-      <screen height="1160" width="1920" x="0" y="0" />
+    <state width="1877" height="386" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" />
+    <state width="1877" height="386" key="GridCell.Tab.1.right" timestamp="1586669087790">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state height="386" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" width="1877" />
+    <state width="1877" height="386" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586669087790" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1586670564131">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1586670564131" />
   </component>
 </project>
