@@ -8,10 +8,10 @@
   "subtitles.portalgunfabric.reset":"Portal gun resetting",
   "subtitles.portalgunfabric.active":"Portal gun equipping",
 
-  "item.portalgunfabric.blue_portal_gun.name":"Portal Gun",
-  "item.portalgunfabric.orange_portal_gun.name":"Portal Gun",
+  "item.portalgunfabric.blue_portal_gun":"Portal Gun",
+  "item.portalgunfabric.orange_portal_gun":"Portal Gun",
 
-  "item.portalgunfabric.portal_gun_core.name":"Portal Core",
+  "item.portalgunfabric.portal_gun_core":"Portal Core",
 
   "key.portalgunfabric.switch":"Switch Portal Gun Type",
 
